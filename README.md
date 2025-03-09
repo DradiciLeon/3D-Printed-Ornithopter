@@ -1,10 +1,28 @@
-This is a work in progres prototipe of a flying bird almost fully 3D printed.
-At the moment it uses one brushless motor, an 20 A ESC, a 11.1 V Li-Po battery and
-a speed controller.
-Future goals: -adding a second motor because the wings are not moving at the same rate
-              -modifying the wings to be more resistant
-              -smoothing out the movement
-              -try to get to the point where it produces thrust
+Flying Bird Prototype
 
-Code is not required for this version
+Work in Progress
+
+This repository contains the prototype of a nearly fully 3D-printed flying bird. The project aims to create a functional flapping-wing mechanism that can eventually generate thrust.
+
+Current Setup
+
+Motor: 1x Brushless motor
+
+ESC: 20A Electronic Speed Controller
+
+Battery: 11.1V Li-Po
+
+Control: Speed controller
+
+Future Goals
+
+Add a second motor to ensure synchronized wing movement
+
+Strengthen the wings for better durability
+
+Improve movement smoothness
+
+Achieve thrust production
+
+At this stage, the project does not include code, as the primary focus is on the mechanical and structural aspects.
  
